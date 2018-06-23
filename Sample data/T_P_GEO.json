@@ -1,0 +1,3642 @@
+{"type":"FeatureCollection","features":[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.8713099,
+        40.9413523
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.6426013,
+        41.4530679
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.5120196,
+        39.1031182
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.190356,
+        42.9377453
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.8131377,
+        40.4169269
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.1199934,
+        52.381905
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.099194,
+        44.4454432
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.6893217,
+        34.6048577
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.5120196,
+        39.1031182
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -69.7794897,
+        44.3106241
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.4606904,
+        40.4903599
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.4067116,
+        39.4078747
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.1246608,
+        39.843947
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.4089389,
+        37.1298517
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -85.9213796,
+        39.2014404
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.841642,
+        40.4122981
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.4808043,
+        36.9685219
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.8183875,
+        42.7097187
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.9652117,
+        40.329537
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.3879824,
+        33.7489954
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.9209701,
+        41.7003713
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5778415,
+        44.5588028
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -89.2562239,
+        43.0850514
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.1772604,
+        38.9338676
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.5034326,
+        28.5500578
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.0759105,
+        41.5242649
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.8195091,
+        41.3440261
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.2444658,
+        40.4505165
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -70.8653372,
+        43.2617503
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -46.6333094,
+        -23.5505199
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -83.4323375,
+        33.9448436
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.1318096,
+        40.9403762
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.3045967,
+        25.9109586
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -82.9987942,
+        39.9611755
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.1368361,
+        40.8299432
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.091617,
+        39.5492792
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.1389101,
+        42.3803274
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.8357025,
+        40.2640559
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.3756862,
+        28.5416658
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5323139,
+        41.7599267
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.1892747,
+        39.6240414
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.0588801,
+        42.3600825
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -82.907123,
+        40.4172871
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.5578678,
+        42.8509152
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.9958864,
+        40.4406248
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -70.6085886,
+        41.5532208
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.2051022,
+        44.9364356
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.1756481,
+        33.0185039
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.705516,
+        41.5265894
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.6154897,
+        34.0234337
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -70.0793669,
+        43.6921415
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.0754189,
+        40.9445428
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.3955948,
+        37.5763118
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.7629097,
+        41.0339862
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.5411497,
+        40.1489607
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.1493699,
+        26.6171174
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6162009,
+        42.2042586
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.0059413,
+        40.7127837
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.8660914,
+        43.2500208
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.71444444,
+        41.64972222
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.3824374,
+        42.4072107
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.9414266,
+        37.2709704
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.0007613,
+        40.7207559
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.5058429,
+        38.8817784
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -96.6783449,
+        34.774531
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.2490823,
+        37.2074518
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.117909,
+        29.18441
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -83.7142848,
+        36.6072567
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.5902551,
+        49.0089747
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.2815395,
+        31.749666
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.1423,
+        41.1859
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -134.4197222,
+        58.3019444
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -58.6193265,
+        -34.4941453
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.49159241,
+        6.46678646
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.3356196,
+        47.5802366
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.0424477,
+        37.594948
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -119.6456844,
+        36.3274502
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        116.2599254,
+        39.9720006
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.976881,
+        40.7529239
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.0704837,
+        52.6924321
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -119.7107494,
+        34.420334
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.6764816,
+        45.5230622
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        117.200983,
+        39.084158
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.4194155,
+        37.7749295
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.925144,
+        44.5563507
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        73.8567437,
+        18.5204303
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0749801,
+        40.3977612
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -123.8925908,
+        43.0059455
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -118.2436849,
+        34.0522342
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -97.4780954,
+        35.6528323
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.4194155,
+        37.7749295
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.2758008,
+        37.5202145
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        39.33331508,
+        48.56670385
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -95.712891,
+        37.09024
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -116.2381744,
+        43.6221108
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -123.1207375,
+        49.2827291
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.41,
+        37.65
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -115.1398296,
+        36.1699412
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -108.7602738,
+        35.5347079
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -117.8531119,
+        33.7877944
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -113.7926834,
+        42.5514975
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.9508141,
+        39.6172101
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.0434568,
+        42.349275
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -117.20839331,
+        34.07023126
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -117.2029363,
+        32.8981142
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.5861037,
+        34.7303688
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.2650108,
+        44.977753
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.5590157,
+        40.7139898
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.48224,
+        37.796741
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.3124341,
+        29.9012437
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.2483921,
+        43.2341813
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.3909879,
+        40.661077
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -120.5542012,
+        43.8041334
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -117.2712717,
+        32.8328112
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.4766781,
+        38.0293059
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -116.9629378,
+        44.0265525
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.7677645,
+        38.4161347
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.0646337,
+        42.3652917
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.8811827,
+        41.4409323
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.0348144,
+        34.0007104
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        100.6057167,
+        14.0734672
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        32.4176,
+        34.7585
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.5860481,
+        35.1003102
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.98928799,
+        41.51666455
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.5022205,
+        44.2910915
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.17345251,
+        26.38321643
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.8202462,
+        41.1399814
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.711332,
+        41.5772115
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -90.1963364,
+        35.1377209
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.470786,
+        44.8546856
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -97.6222665,
+        30.5464236
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -97.7474658,
+        35.4788997
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -105.0372046,
+        39.8366528
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -96.7025955,
+        40.813616
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -94.8002333,
+        39.0870168
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.7133302,
+        36.3231066
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -90.6998477,
+        38.8106075
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -95.5824846,
+        35.2873206
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -98.7648073,
+        38.3644567
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.9923965,
+        29.9743803
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -92.1004852,
+        46.7866719
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.5046508,
+        33.6043411
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.2922989,
+        37.2089572
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -96.6988856,
+        33.0198431
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.7133302,
+        36.3231066
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -101.7203993,
+        41.1282178
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -88.4211785,
+        41.357254
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.71453,
+        43.7508284
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.2016435,
+        33.9398201
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.6091064,
+        41.6005448
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.9064736,
+        43.0389025
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -95.8432803,
+        36.2904379
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.7782689,
+        38.3686324
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -96.4,
+        42.5
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -90.6998477,
+        38.8106075
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.1019068,
+        32.3626393
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.2830021,
+        44.8832982
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -92.1193012,
+        32.5093109
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.9036047,
+        30.6035255
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -88.1934057,
+        43.3968671
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.7031888,
+        39.0661472
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -88.7197745,
+        34.1942746
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.3831843,
+        43.653226
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -90.1994042,
+        38.6270025
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -91.0432051,
+        41.424473
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.4056612,
+        40.0583238
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.8675172,
+        42.8975222
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.0632685,
+        39.7092262
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.5424809,
+        36.6859829
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -97.4137553,
+        42.0327234
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -85.1832746,
+        32.8779056
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.9877094,
+        32.4609764
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -91.6656232,
+        41.9778795
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.7188044,
+        30.2799746
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.6698286,
+        32.4315813
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.2185404,
+        41.0531862
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -94.0376881,
+        33.4417915
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.0059413,
+        40.7127837
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -83.7802214,
+        42.5294773
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -118.24383352,
+        34.05796397
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.0349647,
+        41.3517324
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.5803037,
+        43.4500227
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.467566,
+        42.7653662
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.50808867,
+        37.74914084
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.1124701,
+        38.882584
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.0632685,
+        39.7092262
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -82.9987942,
+        39.9611755
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -69.7794897,
+        44.3106241
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.8413056,
+        33.9244531
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -95.3698028,
+        29.7604267
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -85.9538532,
+        32.944012
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.75002676,
+        36.08718289
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.3647247,
+        40.8200623
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.7195533,
+        33.5604168
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -82.9178838,
+        40.0415191
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6274501,
+        42.2003303
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.1756481,
+        33.0185039
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.782127,
+        8.537981
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.7428838,
+        45.4924809
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -70.3711617,
+        43.6770252
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.0368707,
+        38.9071923
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.4535536,
+        35.5095959
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.0019515,
+        42.6673526
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.5205881,
+        37.9932152
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.8633635,
+        41.6757457
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.4778902,
+        41.9933953
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.4128343,
+        41.8239891
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.4212097,
+        42.7203869
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.749538,
+        42.1250929
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.0368707,
+        38.9071923
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.7048576,
+        45.3458686
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.1869057,
+        39.9608237
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -83.7571998,
+        43.0917059
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -97.8783911,
+        36.3955891
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.099194,
+        44.4454432
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.4301932,
+        43.4276557
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.3854728,
+        38.6901134
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.2468626,
+        43.1593745
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.2482225,
+        41.3858115
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.7795419,
+        41.6612104
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.3879824,
+        33.7489954
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -98.3276661,
+        29.5630599
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6274501,
+        42.2003303
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.1848009,
+        40.9634335
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.589811,
+        42.1014831
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -83.7557243,
+        42.9764316
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.3022664,
+        36.0674125
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -83.282539,
+        42.498403
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -85.6602058,
+        30.1588129
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.0469214,
+        38.8048355
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.4716682,
+        42.9406778
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.1772604,
+        38.9338676
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.5138736,
+        38.792783
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6663788,
+        41.9376144
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -82.4661203,
+        27.4455434
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.7462587,
+        43.1056128
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.3501405,
+        39.0737142
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.8557354,
+        40.7975699
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -46.6333094,
+        -23.5505199
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.5147485,
+        38.8612514
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -61.0634003,
+        13.8278433
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -88.9936873,
+        40.4842027
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.0059413,
+        40.7127837
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -156.5047222,
+        20.8911111
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.792272,
+        42.9790067
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.3178446,
+        28.7588833
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.0728201,
+        26.4614625
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.2687291,
+        40.3380949
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.3882072,
+        40.787878
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.8255621,
+        35.823483
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.3055144,
+        40.0378755
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.6971931,
+        45.4215296
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.341,
+        47.6082
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -46.6333094,
+        -23.5505199
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -156.4665331,
+        20.8915116
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.24303788,
+        39.87610039
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.4653529,
+        42.000437
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -96.434205,
+        43.4535861
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -156.5047222,
+        20.8911111
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.0007613,
+        40.7207559
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  }
+]}
