@@ -1,0 +1,420 @@
+\documentclass[12pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
+\usepackage[utf8]{inputenc}
+\usepackage{geometry} 
+\newgeometry{vmargin={35mm}, hmargin={20mm,20mm}}               		% See geometry.pdf to learn the layout options. There are lots.
+
+\usepackage{libertine}
+\usepackage{setspace}
+\usepackage{mathtools}
+                  		% ... or a4paper or a5paper or ... 
+%\geometry{landscape}                		% Activate for rotated page geometry
+%\usepackage[parfill]{parskip}    
+\usepackage{graphicx}	
+\usepackage[table,x11names]{xcolor}			% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode		
+
+\usepackage{amssymb}
+\usepackage{epsfig}
+\usepackage{url}
+\usepackage{array}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\usepackage[export]{adjustbox}
+
+%header and footer
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{datetime}
+
+\begin{document}
+
+
+\begin{titlepage}
+	\begin{center}
+	\vspace*{0.1cm}
+	\includegraphics[width=8cm , height=4cm]{ucr.jpg}
+	\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} 
+	\centering
+	\HRule \\[0.5cm]
+	{ \Huge \bfseries "Spatial and Temporal Analysis on Twitter data using ArcGIS"}\\[0.4cm] % Title of your document
+	\HRule \\[1.5cm]
+	
+		\vspace{3cm}
+	
+		\emph{Report By}\\
+		\vspace{1cm}
+		\textsc{\LARGE Kamalika Poddar (SID :- 862002289) }\\ 
+		\vspace{0.2cm}		
+		\vspace{0.2cm}
+		\textsc{\LARGE	Pratheek Chindodi Rajashekar (SID :- 862002345)} \\
+			\bigskip
+		
+	
+		\vspace*{4cm}
+		\Large \today
+	\end{center}	
+	\vspace{1cm}
+	\vfill 
+\end{titlepage}
+
+\setcounter{page}{1}
+\pagestyle{fancy}
+\rhead{Spatial Analysis on Twitter data using ArcGIS:Page \thepage}
+
+\newpage
+\vspace{2cm}
+
+
+\section{Table of Contents}
+\begin{enumerate}
+	\item Contribution by Team Members
+	\item Introduction
+	\item Platform and Software Used
+	\subitem 3.1 Python Packages
+	\subitem 3.2 Editors
+	\subitem 3.3 Tools Used
+	\item Project Description
+	\item Related Work
+	\subitem 5.1 Spatial and Temporal Sentiment Analysis of Twitter data
+	\subitem 5.2 Spatial and temporal analysis of Twitter: a tale of two countries
+	\subitem 5.3 Atmospheres
+	\subitem 5.4 Spatial, temporal, and content analysis of Twitter for wildfire hazards
+	\subitem 5.5 Spatial and Temporal Analysis of Tornado Fatalities in the United States: 1880–2005
+	\item Data Collection
+	\item Data Processing
+	\item Data Visualization
+	\subitem 8.1 Spatial Analysis
+	\subitem 8.2 Temporal Analysis
+	\item Experiments
+	\item Results
+	\subitem 10.1 Spatial Analysis
+	\subitem 10.2 Temporal Analysis
+	\item Challenges faced in design/implementation
+	\item Conclusion
+	\item References
+\end{enumerate}
+
+\section{Contribution by Team Members}
+\textbf{Kamalika Poddar:} Data Collection and Data Processing\\
+\textbf{Pratheek Chindodi Rajashekar:} Data Visualization\\
+
+\section{Introduction}
+
+Social media is currently  playing an important role in the process of information diffusion. Exploring the pattern of message propogation on social network helps us better prepare for natural disasters or human crises. Twitter is among the fastest‐growing microblogging and online social networking services.  Messages posted on Twitter (tweets) have been reporting everything from daily life stories to the latest local and global news and events. Monitoring and analyzing this rich and continuous user‐generated content can yield unprecedentedly valuable information, enabling users and organizations to acquire actionable knowledge. Sentiments in tweets can be leveraged to understand variation in people's emotion towards varied subjects, during various times of the day and at different locations. This project analyzes sentiment variation during the entire span of the week. Furthur on we explore different locations using twitter data over entire USA. 
+
+
+\section{Platform and Software used}
+
+This project uses Python libraries to filter the streaming data and json file to store the data. Here is the list of Software and Python Libraries used for this project.
+
+\subsection{Python Packages}
+\begin{itemize}
+	
+	\item \textbf{Tweepy}: - Tweepy is open-sourced, hosted on GitHub and enables Python to communicate with Twitter platform and use its API. The current version of tweepy used is 3.3.0,  which fixes various bugs and offers better functionality than the previous version. This library provides ability to crawl tweets generated all over the world.
+	\item \textbf{Argparse}: - This module makes it easy to write user-friendly command-line interfaces.The program defines what arguments it requires, and argparse will figure out how to parse those out of sys.argv. The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments.
+	
+	\item \textbf{JSON}: - This is a lightweight data interchange format inspired by JavaScript object literal syntax. It was derived from JavaScript, but as of 2017 many programming languages include code to generate and parse JSON-format data. 
+	
+	\item \textbf{Sys}: - This module provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the computer.Built-in file objects representing standard input, output, and error are included in the sys module and are called stdin, stdout, and stderr.
+	\item \textbf{Matplotlib}:- Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. 
+\end{itemize}
+\subsection{Editors}
+\begin{itemize}
+	\item \textbf{Vim}:- Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface. Vim is free and open source software and is released under a license that includes some charityware clauses, encouraging users who enjoy the software to consider donating to children in Uganda.
+	\item \textbf{Sublime Text }:- Sublime Text is a proprietary cross-platform source code editor with a Python application programming interface (API). It natively supports many programming languages and markup languages, and functions can be added by users with plugins, typically community-built and maintained under free-software licenses.
+	\item \textbf{Pycharm}:- PyCharm is an integrated development environment (IDE) used in computer programming, specifically for the Python language.It provides code analysis, a graphical debugger, an integrated unit tester, integration with version control systems (VCSes), and supports web development with Django.
+\end{itemize}
+
+\subsection{Tools Used}
+\begin{itemize}
+	\item \textbf{Open Refine}:-OpenRefine, formerly called Google Refine, is a standalone open source desktop application for data cleanup and transformation to other formats, the activity known as data wrangling. It is similar to spreadsheet applications (and can work with spreadsheet file formats); however, it behaves more like a database.
+	\item \textbf{ArcGIS}:- ArcGIS is a geographic information system (GIS) for working with maps and geographic information. It is used for creating and using maps, compiling geographic data, analyzing mapped information, sharing and discovering geographic information, using maps and geographic information in a range of applications, and managing geographic information in a database.
+\end{itemize}
+
+\section{Project Description}
+
+This project performs Data Ingestion, Aggregation and Analysis that allows the user to explore the spatial and temporal relationships present in twitter data. The project considers every single tweet as an expression of positive, neutral and negative sentiment. A collection of past tweets and their associated sentiments resides in a JSON file and is used for the study of sentiment across various places.\\
+\\
+The project provides data visualization in the form of heat map, bar graph and pie charts. This visualization can be used to quicky visualize the current mode of each tweet. A more quantitative representation of each sentiment can be obtained with this project. A person can also dive deeper into the sentiment trends of any particular city by defining the bounding co-ordinates.
+
+
+\section{Related Work}
+There has been lot work done in this area, but below are just few of the related work we found most important of all.
+\begin{itemize}
+	\item \textbf{Spatial and Temporal Sentiment Analysis of Twitter data}:- This article focuses on spatio-temporal variation of georeferenced Tweets’ sentiment polarity, with a view to understanding how opinions evolve on Twitter over space and time and across communities of users.  The results were identified as the highest percentage of positive Tweets occurred in the social science area, while science and engineering and dormitory areas had the highest percentage of negative postings. The number of negative Tweets increases in the library and science and engineering areas as the end of the semester approaches, reaching a peak around an exam period, while the percentage of negative Tweets drops at the end of the semester in the entertainment and sport and dormitory area. This study provided some insights into understanding students and staff ’s sentiment variation on Twitter, which could be useful for university teaching and learning management.
+	\item \textbf{Spatial and temporal analysis of Twitter: a tale of two countries}:- People share information with their peers using social media services (e.g. sharing their latest news over Facebook or Twitter) in order to inform the peers about their current situation. This has become a huge part of our social life. During crises this behaviour becomes even more acute because it allows people to reassure their peers (followers and friends) of their well being expeditiously. Of late, social media services have been also used for another purpose during crises: that of informing oneself over the current evolution of the crises. However obtaining relevant information from social media can be a difficult challenge as the bar for posting information, good or bad, is very low. Filtering the flow of messages such that only relevant information is remaining is critical in times of crises. To aid in this, we propose a spatial-temporal model that collects the data from Twitter. The data is further processed to evaluate the density of tweets surrounding the area. We also evaluate the possibility of shared user accounts by determining the physical distance and velocity between messages originating from the same user account.
+	\item \textbf{Atmospheres}:- In this article, the team analysed sentiments for San Francisco and developed a WebApp showcasing the current sentiment of San Francisco using Javascript packages like jQuery, Bootstrap, Angular.js, MapBox, Leaflet.js. They mainly focused on the Visualization of data and the app is a current tweet streaming application and can be visualized from anywhere in the entire world.
+	
+	\item \textbf{Spatial, temporal, and content analysis of Twitter for wildfire hazards}: -  Online networking information are progressively being utilized for improving situational mindfulness and helping calamity administration. They have analyzed the out of control fire related Twitter exercises regarding their ascribes appropriate to space, time, substance, and system, in order to pick up experiences into the helpfulness of online networking information in uncovering situational mindfulness. Discoveries demonstrate that online networking information can describe the fierce blaze crosswise over space and after some time, and subsequently are pertinent to give helpful data on catastrophe circumstances. Second, individuals have solid land mindfulness amid rapidly spreading fire risks and are occupied with imparting situational refreshes identified with out of control fire harm (e.g., regulation rate and consumed sections of land), out of control fire reaction (e.g., departure), and thankfulness to firefighters. Third, news media and nearby specialists are assessment pioneers and assume an overwhelming part in the out of control fire retweet arrange.
+	\item \textbf{Spatial and Temporal Analysis of Tornado Fatalities in the United States: 1880–2005}:- A dataset of executioner tornadoes is aggregated and analyzed spatially keeping in mind the end goal to survey district particular vulnerabilities in the United States from 1880 to 2005. Results uncover that most tornado fatalities happen in the lower– Arkansas, Tennessee, and lower– Mississippi River valleys of the southeastern United States—a locale outside of conventional "tornado rear way." Analysis of factors including tornado recurrence, arrive cover, manufactured home thickness, populace thickness, and nighttime tornado probabilities exhibits that the relative most extreme of fatalities in the Deep South and least in the Great Plains might be because of the one of a kind juxtaposition of both physical and social vulnerabilities. The spatial dissemination of these executioner tornadoes recommends that the over the national normal manufactured home thickness in the Southeast might be a key purpose behind the casualty most extreme found around there. A statistic examination of fatalities amid the last piece of the database record delineates that the moderately aged and elderly are at a substantially more serious hazard than are more youthful individuals amid these occasions. Information issues found amid this examination uncover the requirement for a coordinated push to get basic data about how and where all setbacks happen amid future tornado and perilous climate occasions. These new, upgraded information, joined with aftereffects of spatially express investigations investigating the human humanism and brain research of these dangerous occasions, could be used to enhance future cautioning spread and relief procedures.
+	
+\end{itemize}	
+
+\section{Data Collection}
+
+\noindent
+First we generated the Consumer Key, Consumer Secret key, Access Token and Access Token Secret from the Twitter API. The entire data was collected with the help of a python library "Tweepy" and stored it in a jSON file. Each row in a json file consisted of each tweet and the column represents different features like: 'id', 'id\_str', 'created\_at', 'text', 'retweet count', 'truncated tweet', 'timestamp','place-name', 'place-country', all the information of users and co-ordinated from where the tweet generated.\\
+
+\noindent
+We collected tweets for 1 hour each day from Monday through Friday during evening. From the huge json file of approximately 25GB each, we collected the geotagged tweets. The collected data was stored in three files each containing positive, negative and neutral keywords. There were 21 keywords used to collect data and the list of the keywords are represented in Table1.
+
+\begin{center}
+	\begin{tabular}{|P{4cm} |P{4cm}| P{4cm}|}
+		
+		\hline
+		\rowcolor{lightgray} \vspace{0.1cm}\textbf{ \Large Positive} \vspace{0.5cm}&\vspace{0.1cm} \textbf{ \Large Negative} \vspace{0.1cm}&\vspace{0.1cm} \textbf{ \Large Neutral} \vspace{0.1cm}\\ 		
+		\hline
+		happy & shame & baffled \\  [8pt]
+		\hline
+		enjoy & doubt & authoritative \\ [8pt]
+		\hline  
+		cheerful & envy & clinical \\  [8pt]
+		\hline
+		great & grief & detached \\ [8pt]
+		\hline  
+		love & fear & nostalgic \\  [8pt]
+		\hline
+		enjoying & sadness & objective \\ [8pt]
+		\hline  
+		challenge & frustration & restrained \\  [8pt]
+		\hline
+		learning & guilt & sentimental \\ [8pt]
+		\hline  
+		curious & disgusted & candid \\  [8pt]
+		\hline
+		prefer & failure & frank \\ [8pt]
+		\hline  
+		demand & afraid & preoccupied \\  [8pt]
+		\hline
+		advice & hate & unequivocal \\ [8pt]
+		\hline
+		trusting & pain & probing \\  [8pt]
+		\hline
+		unique & sick & nonchalant \\ [8pt]
+		\hline  
+		like & overwhelmed & callous \\  [8pt]
+		\hline
+		easy & problem & consoling \\ [8pt]
+		\hline  
+		nice & stressed & didactic \\  [8pt]
+		\hline
+		good & boring & direct \\ [8pt]
+		\hline  
+		helpful & botthered & impartial \\ [8pt]
+		\hline  
+		pretty & weird & unambiguous \\ [8pt]
+		\hline  
+		fun & greedy & understated \\ [8pt]
+		\hline  
+	\end{tabular}
+\end{center}
+\newpage
+\section{Data Processing}
+ In this project we tried to concetrate most of our findings for positive and negative and discarded the neutral tweets for better results. In this section we convert the crawled data into different formats for further processing.
+
+\begin{itemize}
+	\item From all the features generated in the original jSON file, the geocoded data with the user information and geo co-ordinates was obtanied using the \textbf{\textit{'argparser'}} python module and stored in a json file. Here the co-ordinates was obtained as a bounding box. ArcGIS is compatible with file formats such as  CSV, GeoJSON, so the json file needed to be converted to a .csv file for further processing. OpenRefine was used to convert the jSON file to CSV file. While converting the file, lot of time got wasted and even after converting due to the file size, it became difficult to incorporate the layer in ArcGIS.
+	
+	\item For this reason we echoed the geotagged tweets from the tweets using Mac Terminal with the help of the below command. \\
+	
+	\includegraphics[width=16cm]{geo}
+	
+	The GeoJson file obtained contained the attributes as co-ordinates of a place and the text that it is being created from. It was easier to map the data in ArcGIS and hence the analysis was faster, even though we had to map each element.
+\end{itemize} 
+
+\noindent 
+
+\section{Data Visualization}
+
+\begin{itemize}
+	\item Using each CSV file, a layer was added to the ArcMAP to analyse the tweets based on the location. For small files it was easier to upload the data then when we tried to upload large files it became difficult. For this reason we stopped our analysis and folowed a different approach.
+	\item We used our second technique to upload the file and tweets mapped to the location perfectly. We added each layer in the project for Positive and negative tweets. Then after assigning location symbols and color code of \emph{'green'} and \emph{'red'} respectively, we started visualy analysing the data. We performed two types of analysis listed below:-\\
+	
+	\textbf{Spatial}: Here we used the 'Find Nearest' function within the 'Use proximity' function in AcrGIS, to find points in the layer which are nearer to Park, University and Hospital. This analysis was performed on mostly negative tweets to analyze the pattern of negative tweets origination from different location during each day of the week.\\
+	
+	\textbf{Temporal}: We used the analysis feature in ArcGIS online to first Summarize the 'Aggregate' of all the points present in the boundary. To map the boundary we used an inbuilt Feature Layer of ArcGIS, called 'United States Country Boundary 2016'. With the help of 'United States State Boundary 2016', we could also find the number of tweets within the state. 
+\end{itemize}
+
+\section{Experiments}
+We conducted our experiment on 2.9 GHz Intel Cor i7 processor with ArcGIS Online Desktop version of  ArcGIS. In the total of  402 geotagged tweets generated and mapped, 332 were positive tweets and 70 were negative. 
+
+\section{Results}
+
+\begin{itemize}
+	\item Figure 1 represents the location of different tweets in Unites States within 60 sec.
+	\item Figure 2 represents Positive, Negative and Neutral tweets generated from Los Angeles.
+	\item Figure 3 represents all the positive tweets generated for five days.
+	\item Figure 4 represnts all the negative tweets generated for five days.
+	\item Figure 5 represents total positive and negative tweets for five days.
+\end{itemize}
+
+\begin{figure}[h]
+	\centering
+	%\textbf{Your title}\par\medskip
+	\includegraphics[width=13cm,height= 7cm, trim={4cm 10cm 12cm 4cm},clip]{Min_US.jpg}\\
+	\caption{Tweets generated in different location in United States in 60 seconds.}
+\end{figure}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=13cm, height= 8cm]{Monday.jpg}\\
+	\caption{ Positive, Negative and Neutral Tweets generated in LosAngeles for Monday.}
+\end{figure}
+
+
+\vspace{2cm}
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=17cm, height= 8cm, trim={1 0 0 0}]{POS_NEG.jpg}
+	\caption{ Total Positive  and Negative tweets genrated for the five days in United States.}
+\end{figure}
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=15cm, height= 19cm]{PositiveT.jpg}\\
+	\caption{ Positive Tweets during five days in a week.}
+\end{figure}
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=15cm, height= 19cm, trim ={0.1cm 0 0 0},clip]{NegativeT.jpg}\\
+	\caption{Negative Tweets during five days in a week.}
+\end{figure}
+
+\subsection{Spatial Analysis}
+
+\begin{itemize}
+	\item Figure 6 represents table of data collected over five days from different location like Park,University and Hospital.
+	\item Figure 7 represents the line graph variation of park, university and hospital for different days in a week.
+	\item Figure 8 represents a bar graph showing the dependency of Negative tweets at different places.
+	\item Figure 9 shows the Weekly Weather Report for the city of NewYork. 
+\end{itemize}
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=15cm, height= 4cm]{Park.jpg}\\
+	\caption{ Table representing negative tweets for Park, University and Hospital for five days.}
+\end{figure}
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=10cm, height=8cm]{PA.jpg}\\
+	\caption{ Line graph representation of Negative Tweets at different locations.}
+\end{figure}
+\vspace*{1cm}
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=10cm, height=8cm]{Spatial1.jpg}\\
+	\caption{ Line graph representation of Negative Tweets at different locations.}
+\end{figure}
+\vspace*{1cm}
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=18cm, height=5cm]{Weather.jpg}\\
+	\caption{ Weekly weather report for the city of New York}
+\end{figure}
+\vspace*{1cm}
+\subsection{Temporal Analysis}
+
+\begin{itemize}
+	\item Figure 10 represents the table for the count of number of positive and negative tweet for five days.
+	\item Figure 11 Line graph representing positve and negative tweets for five days.
+	\item Figure 12 compares the different tweets and represents in the form of bars.
+	\item Figure 13 shows comparison between positive and negative tweets during five days.
+	\item Figure 14 compares the tweets with the help of pie charts and represnt in the form of percentages for better analysis.
+\end{itemize}
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=15cm, height= 4.1cm ]{Pos.jpg}\\
+	\caption{ Table representing Positive  and Negative Tweets during five days in a week.}
+\end{figure}
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=10cm, height=7.5cm]{LINE1.jpg}\\
+	\caption{ Positive and Negative Tweets generated for five days.}
+\end{figure}
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=12cm, height=9cm]{Week.jpg}\\
+	\caption{ Bar graph representing positive and negative tweets vs days of week.}
+\end{figure}
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=12cm, height=8.5cm]{P_N.jpg}\\
+	\caption{ Positive  and negative Tweets during five days in a week.}
+\end{figure}
+
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[width=15cm, height= 9cm]{Pie_chart.jpg}\\
+	\caption{ Percentage Representation of Positive, Negative Tweets generated in United States for five days.}
+\end{figure}
+
+
+\section{Challenges Faced}
+\begin{itemize}
+	\item Geo co-ordinates are not enabled for all the twitter users, therefore we needed to extract the tweets with 'geo-enabled=true', which could be mapped. This in return reduced the number of tweets generated.
+	\item Due to change in IP address there was problem in collecting the data and every time and error was raised with the change.
+	\item When we tried to crawl the data for large amount of time, due to huge size of the file, sublime text used to stop responding. Therefore we started crawling for one hour instead. 
+	\item Data being huge, it was difficult to convert and upload the file in ArcGIS.
+	\item Mapping was difficult as,  when all layers were mapped together, each layer was individual and not all of the layers would converge together as a single layer.
+
+\end{itemize}
+
+\section{Conclusion}
+
+After several iterations of the code and analysing each and every detail we reached to these final conclusions which are listed below.
+
+\begin{itemize}
+	
+	\item Performing Spatial Analysis on negative tweets resulted that number of negative tweets generated are mostly from the areas where there is a nearby hospital. And negative tweets generated from park and university almost had the equal variation throughout the week.
+	
+	\item The highest amount of negative tweets generated was on Wednesday with the vicinity of a hospital. This might be a due to the temperature variation in the climate, that might have made people fall sick. According to the weekly weather report by the city of New York, it was reported that there was a rise in the temperature between the period, Tuesday and Wednesday, which concludes our findings. 
+	
+	\item The weather report also aligns with our findings that the least amount of negative tweets happened to be on Monday and highest amount of positive tweets turned out be on Tuesday.
+	
+	\item The total number of tweets generated for the week, Monday[05/27/2018] to Friday [05/1/2018] were mostly 'POSITIVE'. We also observed a phenomenon, that the generation of most positive tweets is directly co-related with the occurence of positive and negative events within a given time frame. Given the fact that Monday[05/27/2018] was 'Memorial day', the most amount of tweets was generated on that day. The representaion shows it on Tuesday due to different time zones in United states.
+
+	
+	\item Most of the tweets were generated from San Francisco, Los Angeles, New York, , Florida and Boston. Therefore we can conclude that the number of tweets generated is proportional to the population of the city.
+	
+\end{itemize}
+
+\section{ \Large References}
+\begin{enumerate}
+	\item Name: Xuebin Wei, Source: Github (Data-Mining-on-Social-Media), Link: https://github.com/xbw
+	ei/Visualizing-Social\-Media\-Data
+	\item  Name: Tejal Patted, Source: Github (Spatial-temporal-tweet-analysis), Link: https://github.com/
+	TejalPatted/Spatial-temporal-tweet-analysis
+	\item  Name: MikaelL Brunila, Source: Google (Scraping, extracting and mapping geodata from Twitter), Link:http://www.mikaelbrunila.fi/2017/03/27/scraping-extracting-mapping-geodata-twitter/
+	\item  Name: Marco Bonzanini, Source: Google (Mining Twitter Data with Python), Link:https://marcobon
+	zanini.com/2015/03/23/mining-twitter-data-with-python-part-4-rugby-and-term-co-occurrences/
+	\item  Name: Pablobarbera, Source: Github (subset-geolocated-tweet), Link:https://github.com/pablobar
+	bera/pytwools
+	\item Source: Quora, Link: https://www.quora.com/What-is-the-longitude-and-latitude-of-a-bounding-box-around-the-continental-United-States
+	\item Source: Youtube, Link: https://www.youtube.com/watch?v=ySxeoo2bB4U\&list=PLH
+	utrxqbP1B
+	wc7Q0yTWnAlod\_tbHFbUBJ\&index=18
+	\item Source: ArcGis Online, Link:https://kamalika.maps.arcgis.com/home/web
+	map/viewer.html?webm
+	ap=3a80d802e13f400fae567668e49f9771
+	\item Source: OpenRefine
+	\item Source: Github, Link: https://github.com/amyxzhang/boundingbox-cities/blob/master/
+	boundbox.txt
+	\item Link:http://www.fallriverschools.org/Tone\%20and\%20Mood\%20words\%20\%28unedited
+	\%29.pdf
+	\item https://www.pythoncentral.io/introduction-to-tweepy-twitter-for-python/
+	\item https://stackoverflow.com/questions/10214827/find-which-version-of-package-is-installed-with-pip
+	\item https://en.wikipedia.org/wiki/JSON
+	\item https://espace.curtin.edu.au/handle/20.500.11937/36187
+	\item http://eshlefest.github.io/pdfs/atmospheres\_docs.pdf
+	\item https://tex.stackexchange.com/questions/128185/how-to-give-floats-figures-titles
+	\item https://www.wunderground.com/history/airport/KNYC/2018/5/27/WeeklyHistory.html?req\_city=
+	New20York\&req\_state=NY\&req\_statename=New\%20York\&reqdb.zip=10001\&reqdb.magic=8\&reqdb.
+	wmo=99999
+	\item https://github.com/pubnub/tweet-emotion
+	\item http://support.gnip.com/articles/visualizing-twitter-geo-data.html
+\end{enumerate}
+\end{document}
+
