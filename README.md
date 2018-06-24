@@ -1,4 +1,4 @@
-# Spatial_and_Temporal_analysis_on_Twitter_data_using_ArcGIS
+# Spatial_and_Temporal_analysis_on_Twitter_Sentiment_using_ArcGIS
 <a href="https://github.com/kamalikap/Spatial_and_Temporal_analysis_on_Twitter_data_using_ArcGIS/blob/master/Report/report.pdf">Report</a> contains the description of the whole project and the tools used.
 
 #Code
